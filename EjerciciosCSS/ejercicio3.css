@@ -1,0 +1,12 @@
+#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px ;
+}
+
+li:hover {
+    color:seashell; 
+    cursor: pointer
+}
