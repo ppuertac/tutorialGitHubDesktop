@@ -1,0 +1,25 @@
+.button{
+    color: turquoise;
+    width: 20px;
+    background-color: turquoise;
+    margin: 25px;
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+}
+
+
+#body{
+    background-image: url("https://thumbs.dreamstime.com/b/closeup-square-portrait-calico-cat-9900445.jpg");
+    background-repeat: no-repeat;
+}
+
+#container2{
+    display: flex;
+    flex-direction: row;
+}
+
+.button:hover{
+    opacity: 0;
+    cursor: pointer;
+}
